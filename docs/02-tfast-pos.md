@@ -21,9 +21,9 @@ We do not compete with the fancy cloud POS systems. We sell to the shop that wan
 
 ## How we make money
 
-- Hardware + software bundle: mini-PC, barcode scanner, receipt printer, UPS — sold as one unit, UGX 2.5M–5M
-- Setup fee: UGX 500k–1.5M including stock data entry
-- Support contract: UGX 100k–300k per month
+- Hardware + software bundle: mini-PC, barcode scanner, receipt printer, UPS — sold as one unit
+- One-time setup fee, including stock data entry
+- Monthly support contract
 - EFRIS setup and training as a paid line item
 
 ## Features in detail

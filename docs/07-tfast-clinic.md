@@ -20,10 +20,10 @@ OpenMRS is the most widely used open-source medical record system in the world a
 
 ## How we make money
 
-- Setup fee: UGX 2M–6M including patient record migration
-- Support: UGX 300k–800k per month
-- Hosting or on-prem install: UGX 150k–500k per month
-- Training: UGX 500k per day, includes nurses and reception staff
+- One-time setup fee, including patient record migration
+- Monthly support contract
+- Hosting or on-prem installation, billed monthly
+- Training, includes nurses and reception staff
 - Custom forms and HMIS report packs as paid work
 
 ## Features in detail

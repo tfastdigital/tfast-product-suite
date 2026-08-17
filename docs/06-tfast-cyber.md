@@ -20,9 +20,9 @@ Wazuh is a full SIEM/XDR platform (log collection, threat detection, file-integr
 
 ## How we make money
 
-- Setup: vulnerability review + deployment, UGX 2M–6M depending on endpoints
-- Monitoring-as-a-service: UGX 300k–1.5M per month by endpoint count
-- Awareness campaigns: quarterly phishing simulations with a staff report, UGX 500k–1.5M per campaign
+- Setup: vulnerability review + deployment, quoted by endpoint count
+- Monitoring-as-a-service: monthly, by endpoint count
+- Awareness campaigns: quarterly phishing simulations with a staff report
 - Incident response retainer: annual contract, priority line
 - Compliance report pack: annual, for auditors
 

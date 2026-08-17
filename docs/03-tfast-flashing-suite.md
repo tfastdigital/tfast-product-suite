@@ -22,8 +22,8 @@ We do not advertise or support IMEI tampering — it is illegal in most jurisdic
 ## How we make money
 
 - Free installer with the open tools — builds the brand
-- Paid training: UGX 150k–300k per technician, half-day workshop
-- Pro launcher license: UGX 50k–100k per workshop per year (batch jobs, job logs, customer receipt printing)
+- Paid training: half-day workshops for technicians
+- Pro launcher license: yearly workshop license (batch jobs, job logs, customer receipt printing)
 - Support WhatsApp group: free, with paid priority support
 - Repair-shop starter kit: cables, screwdrivers, ESD mat, USB hubs — bundled with training
 

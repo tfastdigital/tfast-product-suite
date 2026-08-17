@@ -20,9 +20,9 @@ Gibbon is a mature, actively developed school platform that already covers admis
 
 ## How we make money
 
-- Setup fee: UGX 1.5M–4M including migration of student records
-- Monthly support: UGX 250k–800k depending on school size
-- Hosting: UGX 150k–400k per month
+- One-time setup fee, including migration of student records
+- Monthly support contract, depending on school size
+- Monthly hosting fee
 - Parent app branding as a paid add-on
 - Termly training for new staff
 

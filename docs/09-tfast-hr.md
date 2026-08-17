@@ -20,10 +20,10 @@ Krayin is a clean, MIT-licensed HR and payroll system built on Laravel. We add t
 
 ## How we make money
 
-- Setup fee: UGX 1M–3M including employee data import
-- Support: UGX 150k–500k per month
-- Hosting: UGX 100k–300k per month
-- Yearly tax-table updates included in support; custom reports priced separately
+- One-time setup fee, including employee data import
+- Monthly support contract
+- Monthly hosting fee
+- Yearly tax-table updates included in support; custom reports quoted separately
 
 ## Features in detail
 

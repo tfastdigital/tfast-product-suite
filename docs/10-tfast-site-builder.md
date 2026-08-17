@@ -7,7 +7,7 @@
 
 ## The business case
 
-Every restaurant, school, church, clinic and shop in Uganda eventually gets told "you need a website". Agencies quote UGX 1.5M–10M for a custom site, and most small businesses cannot justify it. The answer is a template-driven builder: they pick a template, swap the text and photos, add a MoMo pay button or WhatsApp chat, and go live the same week — for a monthly fee instead of a big upfront bill.
+Every restaurant, school, church, clinic and shop in Uganda eventually gets told "you need a website". Agencies charge serious money for a custom site, and most small businesses cannot justify it. The answer is a template-driven builder: they pick a template, swap the text and photos, add a MoMo pay button or WhatsApp chat, and go live the same week — for a monthly fee instead of a big upfront bill.
 
 GrapesJS is the open-source drag-and-drop builder framework (BSD-3). We build the product around it: Ugandan template packs, hosting, domains, and a client billing portal. This product also feeds the rest of the line-up — every Tfast product gets its landing page built on it, and our agency design work gets faster.
 
@@ -20,8 +20,8 @@ GrapesJS is the open-source drag-and-drop builder framework (BSD-3). We build th
 
 ## How we make money
 
-- Subscription: UGX 100k–400k per month (template tier vs. custom tier)
-- Setup: UGX 150k–500k one-time (content entry, logo placement)
+- Monthly subscription (template tier vs. custom tier)
+- One-time setup fee (content entry, logo placement)
 - Domain and hosting bundled; SSL always included
 - Custom template design as a premium service
 - WhatsApp/MoMo integrations included in the higher tier

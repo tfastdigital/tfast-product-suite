@@ -20,10 +20,10 @@ Apache Fineract is the same class of system used by 400+ institutions reaching 2
 
 ## How we make money
 
-- Setup fee: UGX 3M–8M depending on size and data migration work
-- Monthly support contract: UGX 350k–1.5M
-- Hosting fee: UGX 150k–500k per month on our cloud
-- Training: UGX 500k per day, on-site or at our office
+- One-time setup fee, depending on size and data migration work
+- Monthly support contract
+- Hosting fee on our cloud
+- Training, on-site or at our office
 - Mobile apps and custom reports as paid add-ons
 
 ## Features in detail

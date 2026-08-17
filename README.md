@@ -13,7 +13,7 @@ Every product is built on a proven open-source foundation, then branded, localiz
 Three reasons, in order of importance:
 
 1. **We are not a product lab.** Rewriting a core banking engine or a school system from zero would take years we do not have. The open-source world already solved the hard 80%. Our value is the last mile: mobile money, EFRIS, NSSF, UNEB formats, training in plain language, and being reachable by phone when something breaks.
-2. **It is cheaper for the customer.** A SACCO that would pay UGX 20M+ for a proprietary system gets the same class of software from us for a fraction, because the core is free. We sell the setup and the ongoing care.
+2. **It is cheaper for the customer.** A SACCO that would pay a small fortune for a proprietary system gets the same class of software from us for a fraction, because the core is free. We sell the setup and the ongoing care.
 3. **It keeps us honest with GitHub rules.** We fork properly, keep every license file intact, credit upstream projects on our credits pages, and push useful fixes back. That builds trust with clients and with developers.
 
 ## The lineup
@@ -44,12 +44,12 @@ The Flashing Suite is ready in a month and repair shops pay cash. The POS answer
 
 Our customers in Uganda do not buy software the way people in Europe do. They buy outcomes and someone to call when it breaks. So we sell:
 
-- **Setup fee** — installation, data migration, branding, first training. One-time, UGX 1.5M to 12M depending on the product.
-- **Monthly support contract** — updates, backups, helpdesk. UGX 150k to 1.5M per month. This is the real business; it compounds.
-- **Cloud hosting** — we run it on our infrastructure, customer pays a flat monthly fee. Includes backups and monitoring.
-- **Hardware bundles** — mini-PC, barcode scanner, receipt printer, UPS. Marked up 30–40%. Popular because customers want one invoice and one person responsible.
+- **Setup fee** — one-time charge covering installation, data migration, branding and first training.
+- **Monthly support contract** — updates, backups and a helpdesk. This is the real business; it compounds.
+- **Cloud hosting** — we run the software on our infrastructure for a flat monthly fee. Includes backups and monitoring.
+- **Hardware bundles** — mini-PC, barcode scanner, receipt printer, UPS. Popular because customers want one invoice and one person responsible.
 - **Training** — paid workshops, on-site or at our office.
-- **Custom work on top** — integrations, extra modules, branded mobile apps. Priced per project, never more than 30% of our total revenue target.
+- **Custom work on top** — integrations, extra modules, branded mobile apps. Quoted per project.
 
 The rule we hold ourselves to: never sell the open-source code as if we wrote it. We sell the deployment, the localization, the training and the guarantee. That keeps us on the right side of every license we use, and it is also simply the truth.
 

@@ -20,11 +20,11 @@ ChurchCRM covers the people side well (families, groups, events, giving records)
 
 ## How we make money
 
-- Setup fee: UGX 800k–2.5M
-- Support: UGX 100k–400k per month
-- Hosting: UGX 100k–300k per month
+- One-time setup fee
+- Monthly support contract
+- Monthly hosting fee
 - MoMo giving setup: one-time fee per mobile money merchant code
-- Training for secretaries and treasurers: UGX 300k per day
+- Training for secretaries and treasurers
 
 ## Features in detail
 

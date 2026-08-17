@@ -21,10 +21,10 @@ Medusa is a modern, modular commerce engine. The core is MIT-licensed and solid;
 
 ## How we make money
 
-- Setup fee: UGX 800k–2.5M including product upload
-- Hosting: UGX 150k–400k per month
-- Support: UGX 100k–300k per month
-- Transaction success fee: optional model, 1–2% — we start with flat monthly fees, transactions come later
+- One-time setup fee, including product upload
+- Monthly hosting fee
+- Monthly support contract
+- Transaction success fee: optional model — we start with flat monthly fees, transactions come later
 - Delivery rider app and multi-vendor marketplace as paid upgrades
 
 ## Features in detail
