@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** Gibbon (GPL-3.0)
-**Planned repo:** `tfastdigital/tfast-school`
+**Repository:** [tfast-school](https://github.com/tfastdigital/tfast-school)
 **GitHub tags:** `school-management`, `education`, `uganda`, `fees-management`, `attendance`, `parent-portal`, `mobile-money`, `open-source`
 
 ## The business case

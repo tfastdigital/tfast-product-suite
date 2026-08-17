@@ -20,16 +20,16 @@ Three reasons, in order of importance:
 
 | # | Product | Planned repo | Built on | License | Mobile app | MVP time | Phase |
 |---|---|---|---|---|---|---|---|
-| 1 | Tfast SACCO | `tfast-sacco` | Apache Fineract + Mifos X | Apache-2.0 / MPL-2.0 | Yes (member + field officer) | 12–16 wks | 1 |
-| 2 | Tfast POS | `tfast-pos` | OSPOS | MIT + footer rule | Tablet web, app later | 6–8 wks | 1 |
-| 3 | Tfast Flashing Suite | `tfast-flashing-suite` | mtkclient + scrcpy | MIT / Apache-2.0 | No (desktop tool) | 3–4 wks | 1 |
-| 4 | Tfast School | `tfast-school` | Gibbon | GPL-3.0 | Yes (parent app) | 10–12 wks | 2 |
-| 5 | Tfast Store | `tfast-store` | Medusa | MIT | PWA now, apps later | 10–12 wks | 2 |
-| 6 | Tfast Cyber | `tfast-cyber` | Wazuh + GoPhish | GPL-2.0 / MIT | No (web dashboards) | 6–8 wks | 2 |
-| 7 | Tfast Clinic | `tfast-clinic` | OpenMRS | MPL-2.0 | Not initially | 12–16 wks | 3 |
-| 8 | Tfast Church | `tfast-church` | ChurchCRM | MIT | Yes, phase 2 | 8–10 wks | 3 |
-| 9 | Tfast HR | `tfast-hr` | Krayin | MIT | Yes, phase 2 | 8–10 wks | 3 |
-| 10 | Tfast Site Builder | `tfast-site-builder` | GrapesJS | BSD-3 | No (web only) | 8–10 wks | 3 |
+| 1 | Tfast SACCO | [tfast-sacco](https://github.com/tfastdigital/tfast-sacco) | Apache Fineract + Mifos X | Apache-2.0 / MPL-2.0 | Yes (member + field officer) | 12–16 wks | 1 |
+| 2 | Tfast POS | [tfast-pos](https://github.com/tfastdigital/tfast-pos) | OSPOS | MIT + footer rule | Tablet web, app later | 6–8 wks | 1 |
+| 3 | Tfast Flashing Suite | [tfast-flashing-suite](https://github.com/tfastdigital/tfast-flashing-suite) | mtkclient + scrcpy | MIT / Apache-2.0 | No (desktop tool) | 3–4 wks | 1 |
+| 4 | Tfast School | [tfast-school](https://github.com/tfastdigital/tfast-school) | Gibbon | GPL-3.0 | Yes (parent app) | 10–12 wks | 2 |
+| 5 | Tfast Store | [tfast-store](https://github.com/tfastdigital/tfast-store) | Medusa | MIT | PWA now, apps later | 10–12 wks | 2 |
+| 6 | Tfast Cyber | [tfast-cyber](https://github.com/tfastdigital/tfast-cyber) | Wazuh + GoPhish | GPL-2.0 / MIT | No (web dashboards) | 6–8 wks | 2 |
+| 7 | Tfast Clinic | [tfast-clinic](https://github.com/tfastdigital/tfast-clinic) | OpenMRS | MPL-2.0 | Not initially | 12–16 wks | 3 |
+| 8 | Tfast Church | [tfast-church](https://github.com/tfastdigital/tfast-church) | ChurchCRM | MIT | Yes, phase 2 | 8–10 wks | 3 |
+| 9 | Tfast HR | [tfast-hr](https://github.com/tfastdigital/tfast-hr) | Krayin | MIT | Yes, phase 2 | 8–10 wks | 3 |
+| 10 | Tfast Site Builder | [tfast-site-builder](https://github.com/tfastdigital/tfast-site-builder) | GrapesJS | BSD-3 | No (web only) | 8–10 wks | 3 |
 
 ## Build order and the thinking behind it
 

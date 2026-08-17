@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** Wazuh (GPL-2.0) + GoPhish (MIT) + our own playbooks and reports
-**Planned repo:** `tfastdigital/tfast-cyber`
+**Repository:** [tfast-cyber](https://github.com/tfastdigital/tfast-cyber)
 **GitHub tags:** `cybersecurity`, `siem`, `wazuh`, `security-awareness`, `uganda`, `compliance`, `open-source`
 
 ## The business case

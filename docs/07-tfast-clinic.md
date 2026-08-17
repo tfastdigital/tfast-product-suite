@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** OpenMRS (MPL-2.0) — primary choice. HospitalRun (MIT) noted as reference but archived since 2023.
-**Planned repo:** `tfastdigital/tfast-clinic`
+**Repository:** [tfast-clinic](https://github.com/tfastdigital/tfast-clinic)
 **GitHub tags:** `healthcare`, `emr`, `clinic-management`, `uganda`, `patient-records`, `hmis`, `open-source`
 
 ## The business case

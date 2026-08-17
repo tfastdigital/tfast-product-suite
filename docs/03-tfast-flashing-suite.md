@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** mtkclient (MIT) + scrcpy (Apache-2.0) + driver packs and our own documentation
-**Planned repo:** `tfastdigital/tfast-flashing-suite`
+**Repository:** [tfast-flashing-suite](https://github.com/tfastdigital/tfast-flashing-suite)
 **GitHub tags:** `phone-repair`, `mtk`, `flashing-tool`, `android`, `uganda`, `mobile-repair`, `windows-tool`, `open-source`
 
 ## The business case

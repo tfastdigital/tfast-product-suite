@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** ChurchCRM (MIT)
-**Planned repo:** `tfastdigital/tfast-church`
+**Repository:** [tfast-church](https://github.com/tfastdigital/tfast-church)
 **GitHub tags:** `church-management`, `crm`, `giving`, `uganda`, `sms`, `mobile-money`, `open-source`
 
 ## The business case

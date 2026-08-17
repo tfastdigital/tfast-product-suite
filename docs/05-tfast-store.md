@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** Medusa (MIT)
-**Planned repo:** `tfastdigital/tfast-store`
+**Repository:** [tfast-store](https://github.com/tfastdigital/tfast-store)
 **GitHub tags:** `ecommerce`, `medusa`, `mobile-money`, `mtn-momo`, `airtel-money`, `uganda`, `headless-commerce`, `open-source`
 
 ## The business case

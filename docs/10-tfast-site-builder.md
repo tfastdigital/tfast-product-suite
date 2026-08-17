@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** GrapesJS (BSD-3-Clause)
-**Planned repo:** `tfastdigital/tfast-site-builder`
+**Repository:** [tfast-site-builder](https://github.com/tfastdigital/tfast-site-builder)
 **GitHub tags:** `website-builder`, `no-code`, `grapesjs`, `uganda`, `small-business`, `open-source`
 
 ## The business case

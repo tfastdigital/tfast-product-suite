@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** Apache Fineract (Apache-2.0) + Mifos X (MPL-2.0)
-**Planned repo:** `tfastdigital/tfast-sacco`
+**Repository:** [tfast-sacco](https://github.com/tfastdigital/tfast-sacco)
 **GitHub tags:** `sacco-management`, `microfinance`, `core-banking`, `uganda`, `fintech`, `mobile-money`, `apache-fineract`, `mifos-x`, `loan-management`, `open-source`
 
 ## The business case

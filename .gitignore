@@ -3,3 +3,6 @@ Thumbs.db
 .idea/
 .vscode/
 *.bak
+
+# Per-product repositories built by tools/create-product-repos.ps1
+repos/

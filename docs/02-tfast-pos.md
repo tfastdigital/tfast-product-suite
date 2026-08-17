@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** OSPOS (MIT, with a required footer signature)
-**Planned repo:** `tfastdigital/tfast-pos`
+**Repository:** [tfast-pos](https://github.com/tfastdigital/tfast-pos)
 **GitHub tags:** `point-of-sale`, `retail`, `efris`, `uganda`, `inventory`, `barcode`, `offline-first`, `open-source`
 
 ## The business case

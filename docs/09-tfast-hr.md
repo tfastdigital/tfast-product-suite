@@ -2,7 +2,7 @@
 
 **Status:** Proposed — awaiting build approval
 **Built on:** Krayin (MIT)
-**Planned repo:** `tfastdigital/tfast-hr`
+**Repository:** [tfast-hr](https://github.com/tfastdigital/tfast-hr)
 **GitHub tags:** `hr`, `payroll`, `nssf`, `paye`, `uganda`, `employee-management`, `open-source`
 
 ## The business case
